@@ -12,6 +12,7 @@ public class ExtrinsicState {
     //考试地点
     private String location;
 
+    //一定覆写equals和hashCode方法,否则它作为HashMap的key值是根本没有意义的
     @Override
     public boolean equals(Object obj) {
         if (obj instanceof ExtrinsicState) {
