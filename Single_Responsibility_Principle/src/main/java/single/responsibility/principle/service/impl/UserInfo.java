@@ -1,7 +1,7 @@
-package com.single.responsibility.principle.service.impl;
+package single.responsibility.principle.service.impl;
 
-import com.single.responsibility.principle.service.IUserBO;
-import com.single.responsibility.principle.service.IUserInfo;
+import single.responsibility.principle.service.IUserBO;
+import single.responsibility.principle.service.IUserInfo;
 
 public class UserInfo implements IUserInfo {
 

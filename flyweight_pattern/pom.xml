@@ -8,7 +8,7 @@
     <version>2.2.3.BUILD-SNAPSHOT</version>
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
-  <groupId>single.responsibility</groupId>
+  <groupId>flyweight</groupId>
   <artifactId>principle</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>principle</name>

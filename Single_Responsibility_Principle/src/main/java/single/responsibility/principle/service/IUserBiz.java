@@ -1,4 +1,4 @@
-package com.single.responsibility.principle.service;
+package single.responsibility.principle.service;
 /**
  * 负责用用户行为
  * @author zhangbaosheng

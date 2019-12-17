@@ -1,8 +1,8 @@
-package com.single.responsibility.principle;
+package single.responsibility.principle;
 
-import com.single.responsibility.principle.service.IUserBO;
-import com.single.responsibility.principle.service.IUserBiz;
-import com.single.responsibility.principle.service.impl.UserInfo;
+import single.responsibility.principle.service.IUserBO;
+import single.responsibility.principle.service.IUserBiz;
+import single.responsibility.principle.service.impl.UserInfo;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

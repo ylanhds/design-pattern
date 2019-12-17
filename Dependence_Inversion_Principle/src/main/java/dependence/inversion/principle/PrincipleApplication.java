@@ -1,5 +1,4 @@
-package com.single.responsibility.principle;
-
+package dependence.inversion.principle;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -10,7 +9,5 @@ public class PrincipleApplication {
     public static void main(String[] args) {
         SpringApplication.run(PrincipleApplication.class, args);
     }
-
-
 
 }

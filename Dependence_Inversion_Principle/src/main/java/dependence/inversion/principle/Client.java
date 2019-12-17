@@ -1,6 +1,6 @@
-package com.dependence.inversion.principle;
+package dependence.inversion.principle;
 
-import com.dependence.inversion.principle.service.Driver;
+import dependence.inversion.principle.service.Driver;
 
 public class Client {
 
