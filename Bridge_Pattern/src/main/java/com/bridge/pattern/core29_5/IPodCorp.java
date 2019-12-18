@@ -13,7 +13,7 @@ public class IPodCorp extends Corp {
     protected void sell() {
         System.out.println("销售ipod");
     }
-    public void mamkeMoney(){
+    public void makeMoney(){
         super.makeMoney();;
         System.out.println("赚钱");
     }
